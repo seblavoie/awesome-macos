@@ -399,6 +399,7 @@ Audio and Music players, Trackers, Digital Audio Workstation software.
 - [TotalFinder](https://totalfinder.binaryage.com/) - For Mac users who demand more from their Finder. ![Dollar][mon]
 - [Trickster](https://www.apparentsoft.com/trickster) - Your recently used files, at your fingertips. ![Dollar][mon]
 - [fman](https://fman.io/) - Dual-pane file manager for Mac. ![Dollar][mon]
+- [File Architect](https://filearchitect.com/) - Create file and folder structures with plain text ![Open Source][oss] & ![Free][free] & ![Dollar][mon]
 
 ### Fonts
 
